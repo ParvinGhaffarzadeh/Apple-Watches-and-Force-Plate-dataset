@@ -8,7 +8,7 @@ authors:
   - family-names: Ghaffarzadeh
     given-names: Parvin
     affiliation: "University of Hull, Department of Artificial Intelligence and Modelling"
-    orcid: "https://orcid.org/0000-0000-0000-0000"  # replace with your ORCID
+    orcid: "https://orcid.org/0009-0003-4727-3831"  
 
   - family-names: Chakraborty
     given-names: Debarati
@@ -30,7 +30,7 @@ repository-code: "https://github.com/ParvinGhaffarzadeh/Apple-Watches-and-Force-
 url: "https://zenodo.org/records/17376717"
 doi: "10.5281/zenodo.17376717"
 version: "1.0"
-date-released: "2025-01-01"  # replace with actual release date
+date-released: "2025-11-04"  # replace with actual release date
 license: CC-BY-4.0
 
 abstract: >
