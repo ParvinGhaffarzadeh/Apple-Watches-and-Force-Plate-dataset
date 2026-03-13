@@ -136,7 +136,7 @@ for any purpose, including commercially.
 - **Debarati Chakraborty** — University of Hull ([GitHub](https://github.com/CDebarati))
 - **Koorosh Aslansefat** — University of Hull ([GitHub](https://github.com/koo-ec))
 - **Yiannis Papadopoulos** — University of Hull
-- **Ali Dostan** — Nottingham Trent University
+- **Ali Dostan** — Nottingham Trent University ([GitHub](https://github.com/AliDostan))
 
 ## 📖 Citation
 
