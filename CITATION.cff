@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the following reference."
+type: dataset
+
+title: "Multi-Modal Wearable Sensor Dataset for Ground Reaction Force Estimation Using Consumer Wearable Devices"
+
+authors:
+  - family-names: Ghaffarzadeh
+    given-names: Parvin
+    affiliation: "University of Hull, Department of Artificial Intelligence and Modelling"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # replace with your ORCID
+
+  - family-names: Chakraborty
+    given-names: Debarati
+    affiliation: "University of Hull"
+
+  - family-names: Aslansefat
+    given-names: Koorosh
+    affiliation: "University of Hull"
+
+  - family-names: Papadopoulos
+    given-names: Yiannis
+    affiliation: "University of Hull"
+
+  - family-names: Dostan
+    given-names: Ali
+    affiliation: "Nottingham Trent University"
+
+repository-code: "https://github.com/ParvinGhaffarzadeh/Apple-Watches-and-Force-Plate-dataset"
+url: "https://zenodo.org/records/17376717"
+doi: "10.5281/zenodo.17376717"
+version: "1.0"
+date-released: "2025-01-01"  # replace with actual release date
+license: CC-BY-4.0
+
+abstract: >
+  A multi-modal dataset combining Apple Watch Series 5 wrist and waist
+  inertial measurement unit (IMU) signals with laboratory-grade force plate
+  ground reaction force (GRF) measurements. The dataset contains 492
+  validated trials from 10 healthy adults across five locomotor activities
+  (walking, jogging, running, heel drop, step drop), of which 395 trials
+  (80.3%) are triad-complete with synchronised wrist, waist, and force plate
+  data. Designed to support wearable-based GRF estimation, transfer learning,
+  and fairness-aware AI research for osteoporosis risk assessment.
+
+keywords:
+  - ground reaction force
+  - wearable sensors
+  - Apple Watch
+  - inertial measurement unit
+  - gait analysis
+  - biomechanics
+  - osteoporosis
+  - deep learning
+  - transfer learning
+  - force plate
