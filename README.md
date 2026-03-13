@@ -130,6 +130,13 @@ for any purpose, including commercially.
 **Attribution requirement:** Please cite the paper and dataset (see below).
 
 ---
+## Authors
+
+- **Parvin Ghaffarzadeh** — University of Hull ([GitHub](https://github.com/ParvinGhaffarzadeh))
+- **Debarati Chakraborty** — University of Hull ([GitHub](https://github.com/CDebarati))
+- **Koorosh Aslansefat** — University of Hull ([GitHub](https://github.com/koo-ec))
+- **Yiannis Papadopoulos** — University of Hull
+- **Ali Dostan** — Nottingham Trent University
 
 ## 📖 Citation
 
