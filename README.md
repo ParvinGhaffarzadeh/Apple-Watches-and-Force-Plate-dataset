@@ -10,6 +10,7 @@ Multi-modal dataset for ground reaction force estimation using consumer wearable
 - 10 healthy adults (aged 26–41 years)
 - Force plate ground truth (1000 Hz) + Apple Watch IMU (~100 Hz)
 - Wrist-worn (left wrist) and waist-worn (anterior waist, inferior to the navel) placements
+Note: For trials with multiple force plate files (participants may contact 1–3 plates), the file with the most data rows is selected as the primary contact, corresponding to the plate with the largest ground reaction force signal.
 
 ## 📓 Repository Contents
 - `FP_AW_Synchronised.ipynb` — Synchronisation and three-phase correlation validation pipeline
